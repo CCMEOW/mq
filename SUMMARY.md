@@ -2,3 +2,27 @@
 
 * [Introduction](README.md)
 
+## Kafka
+* [可靠性实践](kafka/可靠性实践/summary.md)
+    * [消息丢失](kafka/可靠性实践/消息丢失.md)
+    * [消息重复](kafka/可靠性实践/消息重复.md)
+    * [顺序消费](kafka/可靠性实践/顺序消费.md)
+
+## RocketMQ
+* [可靠性实践](rocketmq/可靠性实践/summary.md)
+    * [消息丢失](rocketmq/可靠性实践/消息丢失.md)
+    * [消息重复](rocketmq/可靠性实践/消息重复.md)
+    * [顺序消费](rocketmq/可靠性实践/顺序消费.md)
+
+## RabbitMQ
+* [可靠性实践](rabbitmq/可靠性实践/summary.md)
+    * [消息丢失](rabbitmq/可靠性实践/消息丢失.md)
+    * [消息重复](rabbitmq/可靠性实践/消息重复.md)
+    * [顺序消费](rabbitmq/可靠性实践/顺序消费.md)
+
+## 消息中间件综合
+* [消息中间件选型](消息中间件选型.md)
+* [应用与实践](应用与实践/summary.md)
+    * [消息积压](应用与实践/消息积压.md)
+    * [顺序消费](应用与实践/顺序消费.md)
+
