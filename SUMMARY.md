@@ -13,6 +13,8 @@
     * [安装与启动](kafka/实战/安装与启动.md)
 
 ## RocketMQ
+* [原理](rocketmq/原理/summary.md)
+    * [死信队列](rocketmq/原理/死信队列.md)
 * [可靠性实践](rocketmq/可靠性实践/summary.md)
     * [消息丢失](rocketmq/可靠性实践/消息丢失.md)
     * [消息重复](rocketmq/可靠性实践/消息重复.md)
