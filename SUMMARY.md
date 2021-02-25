@@ -7,6 +7,10 @@
     * [消息丢失](kafka/可靠性实践/消息丢失.md)
     * [消息重复](kafka/可靠性实践/消息重复.md)
     * [顺序消费](kafka/可靠性实践/顺序消费.md)
+* [实战](kafka/实战/summary.md)
+    * [Show Me Code](kafka/实战/show_me_code.md)
+    * [常用命令](kafka/实战/常用命令.md)
+    * [安装与启动](kafka/实战/安装与启动.md)
 
 ## RocketMQ
 * [可靠性实践](rocketmq/可靠性实践/summary.md)
